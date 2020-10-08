@@ -1,0 +1,53 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(https://fonts.google.com/specimen/Montserrat?query=mont);
+}
+
+nav li {
+  font-family: Montserrat, Verdana, Arial, "Trebuchet MS";
+  font-size: 30px;
+  display: inline-block;
+}
+
+nav ul {
+  padding: 0px;
+}
+
+nav a {
+  color: 9d3400;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.advertisement {
+  font-size: 40px;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+
+ .logo {
+   max-width: 600px;
+ }
+
+ section label {
+   font-family: Montserrat;
+ }
+
+  #sizes {
+   font-family: Montserrat;
+   font-weight: 600;
+ }
+
+.form__input {
+  display: block;
+
+}
+
+fieldset {
+  max-width: 400px;
+}
+
+
