@@ -84,20 +84,25 @@ nav li {
 
 .top_search_bar {
   background-color: rgb(42, 67, 89);
-  text-align: center;
+  align-items: center;
   max-height: 40px;
   padding: 5px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 #magnifying_glass_top {
   font-size: 25px;
   color: white;
-  margin: ;
+  margin-left: 10px;
 }
 
 #search_top {
  border: solid 2px grey;
  min-height: 25px;
- min-width: 200px;
+ min-width: 300px;
+ border-radius: 5px;
+ outline: none;
 }
 
