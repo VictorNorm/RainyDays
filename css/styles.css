@@ -21,6 +21,7 @@ body {
  .logo {
    max-width: 150px;
    float: left;
+   border: 10px;
  }
 
  section label {
@@ -41,6 +42,7 @@ fieldset {
   max-width: 50vw;
 }
 
+
 .contact_us {
   font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
@@ -60,7 +62,7 @@ nav li {
   display: inline-block;
   font-family: Montserrat;
   font-weight: 600;
-  font-size: 28px;
+  font-size: 20px;
   padding: 20px;
 }
 
@@ -79,3 +81,23 @@ nav li {
 #contact_email {
   margin-bottom: 20px;
 }
+
+.top_search_bar {
+  background-color: rgb(42, 67, 89);
+  text-align: center;
+  max-height: 40px;
+  padding: 5px;
+}
+
+#magnifying_glass_top {
+  font-size: 25px;
+  color: white;
+  margin: ;
+}
+
+#search_top {
+ border: solid 2px grey;
+ min-height: 25px;
+ min-width: 200px;
+}
+
